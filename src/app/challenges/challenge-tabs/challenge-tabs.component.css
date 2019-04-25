@@ -1,1 +1,6 @@
 /* Add mobile styles for the component here.  */
+TabView {
+    android-selected-highlight-color: #7c015d;
+    selected-tab-text-color: #7c015d;
+}
+

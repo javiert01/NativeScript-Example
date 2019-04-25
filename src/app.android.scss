@@ -1,0 +1,9 @@
+@import "./app.common";
+@import '~nativescript-theme-core/scss/platforms/index.android';
+
+.btn {
+    padding: 5 10;
+    border-radius: 30%;
+    margin: 5 0;
+}
+
